@@ -6,7 +6,7 @@ outline: deep
 
 ::: warning
 Copyright © 2025-present Zhirong Li. 
-If U use, plz site.
+If U use, plz cite.
 :::
 
 ```python
