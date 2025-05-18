@@ -27,7 +27,7 @@ export default defineConfig({
           },
           { text: 'Codes for Python', link: '/doc/code',
             items: [
-              { text: 's1_creat_brain.py', link: '/doc/Python/s1-creat-brain' }
+              { text: 's1_creat_brain.py', link: '/doc/python/s1-creat-brain' }
             ]
           },
           { text: 'Codes for Matlab', link: '/doc/code',
